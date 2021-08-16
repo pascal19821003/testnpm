@@ -2,7 +2,7 @@
 class HelloWorld {
 
     /** 
-     * 在页面中显示hello world
+     * 在页面中显示hello world dddd
      */
     say() {
         let div = document.createElement('div')
